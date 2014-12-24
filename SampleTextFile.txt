@@ -1,3 +1,5 @@
 This is just a sample text file to see if I can commit an existing local repository into an existing remote repository.  Lets see what happens.
 
 Now I am adding edited content to this file in the FirstBranch branch.
+
+Adding more content to make sure commits work properly.
